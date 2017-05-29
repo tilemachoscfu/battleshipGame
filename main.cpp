@@ -97,7 +97,9 @@ bool userAttack(int x, int y)
         return true;
     }
     else if(grid[x][y] = NOHIT)
-    return false;
+    {
+        return false;
+    }
 }
 
 
