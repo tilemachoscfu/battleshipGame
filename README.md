@@ -2,4 +2,5 @@
 
 NYC Mid-Term Assignment
 
-Find all ten ships in the grid to win.
+Object of Battleship:
+To become the winner of Battleship you must be able to find (sink) all ten ships in your opponent’s fleet.
