@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1493561448 source:/home/tilemachos/Desktop/battleshipGame/main.cpp
-	<iostream>
-	<stdlib.h>
-	<ctime>
-	<iomanip>
-
